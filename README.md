@@ -2,8 +2,8 @@
 
 
 Teamate:
-Peiqi Chen
-Kaan Kazancoglu
-Syed Ghalib Qadri
-Syeda Ghazal Qadri
+Peiqi Chen,
+Kaan Kazancoglu,
+Syed Ghalib Qadri,
+Syeda Ghazal Qadri,
 Ashley Mercado
