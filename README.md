@@ -1,4 +1,4 @@
-# Evaluating Key Indicators of Heart_Disease
+# Evaluating Key Indicators of Heart Disease
 
 
 Teamate:
